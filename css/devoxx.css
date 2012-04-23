@@ -344,6 +344,12 @@ a:focus {
 .impress-on-java78 #java78{
     opacity:1;
 }
+#lombokTitle {
+    opacity: 0;
+}
+.impress-on-lombokTitle #lombokTitle{
+    opacity:1;
+}
 /*
     This step has some animated text ...
 */
