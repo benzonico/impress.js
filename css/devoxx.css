@@ -186,6 +186,13 @@ a:focus {
     font-size: 48px;
     line-height: 1.5;
 }
+h2{
+    font-style:italic;
+    color: rgb(240, 240, 255);
+}
+ul{
+    font-size:40px;
+}
 
 /*
     ... and we enhance the styles for impress.js.
@@ -472,12 +479,12 @@ a:focus {
     transform:         translateZ(-40px);
 }
 
-#its-in-3d .you {
-    -webkit-transform: translateZ(20px);
-    -moz-transform:    translateZ(20px);
-    -ms-transform:     translateZ(20px);
-    -o-transform:      translateZ(20px);
-    transform:         translateZ(20px);
+#its-in-3d .buzz {
+    -webkit-transform: translateZ(90px);
+    -moz-transform:    translateZ(90px);
+    -ms-transform:     translateZ(90px);
+    -o-transform:      translateZ(90px);
+    transform:         translateZ(90px);
 }
 
 #its-in-3d .noticed {
